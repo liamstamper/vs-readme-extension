@@ -17,6 +17,9 @@
         "command": "readmepreveiew.helloWorld",
         "title": "Hello World"
       }
+    ],
+    "markdown.previewStyles": [
+      "./media/github-markdown.css"
     ]
   },
   "scripts": {
